@@ -1,0 +1,14 @@
+﻿  EventController.cpp
+d:\homework\bt20212\lap trinh mang\btl_ltm\new folder\server1\server\eventcontroller.cpp(71): warning C4101: 'beginindex': unreferenced local variable
+d:\homework\bt20212\lap trinh mang\btl_ltm\new folder\server1\server\eventcontroller.cpp(165): warning C4018: '<': signed/unsigned mismatch
+d:\homework\bt20212\lap trinh mang\btl_ltm\new folder\server1\server\eventcontroller.cpp(216): warning C4018: '<': signed/unsigned mismatch
+d:\homework\bt20212\lap trinh mang\btl_ltm\new folder\server1\server\eventcontroller.cpp(300): warning C4101: 'beginindex': unreferenced local variable
+d:\homework\bt20212\lap trinh mang\btl_ltm\new folder\server1\server\eventcontroller.cpp(332): warning C4018: '<': signed/unsigned mismatch
+d:\homework\bt20212\lap trinh mang\btl_ltm\new folder\server1\server\eventcontroller.cpp(416): warning C4018: '<': signed/unsigned mismatch
+d:\homework\bt20212\lap trinh mang\btl_ltm\new folder\server1\server\eventcontroller.cpp(470): warning C4018: '<': signed/unsigned mismatch
+d:\homework\bt20212\lap trinh mang\btl_ltm\new folder\server1\server\eventcontroller.cpp(538): warning C4018: '<': signed/unsigned mismatch
+d:\homework\bt20212\lap trinh mang\btl_ltm\new folder\server1\server\eventcontroller.cpp(651): warning C4018: '<': signed/unsigned mismatch
+d:\homework\bt20212\lap trinh mang\btl_ltm\new folder\server1\server\eventcontroller.cpp(686): warning C4018: '<': signed/unsigned mismatch
+d:\homework\bt20212\lap trinh mang\btl_ltm\new folder\server1\server\eventcontroller.cpp(726): warning C4715: 'getEventInforById': not all control paths return a value
+  Server.vcxproj -> D:\Homework\BT20212\Lap trinh mang\BTL_LTM\New folder\Server1\Debug\Server.exe
+  Server.vcxproj -> D:\Homework\BT20212\Lap trinh mang\BTL_LTM\New folder\Server1\Debug\Server.pdb (Full PDB)
